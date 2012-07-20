@@ -45,8 +45,10 @@ There are three ways to contact us:
 * sales@jupiter-jazz.com (to sponsor our lifestyle)
 * support@jupiter-jazz.com (for customers only)
 
-Scocial
--------
+Social
+------
+
+If you are feeling social these are for you: 
 
 * Twitter: [@hackedonjupiter](http://twitter.com/hackedonjupiter/)
 * Google+: [+jupiterjazz](https://plus.google.com/b/101201230622891762144/101201230622891762144/posts)
