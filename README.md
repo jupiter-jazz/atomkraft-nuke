@@ -1,13 +1,12 @@
-<pre>
  ______     ______   ______     __    __     __  __     ______     ______     ______   ______  
 /\  __ \   /\__  _\ /\  __ \   /\ "-./  \   /\ \/ /    /\  == \   /\  __ \   /\  ___\ /\__  _\ 
 \ \  __ \  \/_/\ \/ \ \ \/\ \  \ \ \-./\ \  \ \  _"-.  \ \  __<   \ \  __ \  \ \  __\ \/_/\ \/ 
  \ \_\ \_\    \ \_\  \ \_____\  \ \_\ \ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\      \ \_\ 
   \/_/\/_/     \/_/   \/_____/   \/_/  \/_/   \/_/\/_/   \/_/ /_/   \/_/\/_/   \/_/       \/_/ 
-</pre>
 
-_AtomKraft is the interactive 3D toolkit for look development, matte painting, lighting & rendering fully integrated for The Foundry's Nuke/NukeX.
-It is developed by the VFX and rendering nutjobs of Jupiter Jazz Limited and it is targeted too production usage._
+*AtomKraft* is the interactive 3D toolkit for look development, matte painting, lighting & rendering fully integrated for The Foundry's Nuke/NukeX.
+
+It is developed by the VFX and rendering nutjobs of Jupiter Jazz Limited and it is targeted too production usage.
 
 What can you find here?
 -----------------------
@@ -33,7 +32,7 @@ If you do not mind your issues to be public feel free to log them here on this v
 Ping Jupiter
 ------------
 
-Thre are three ways to conatct us:
+There are three ways to contact us:
 
 * info@jupiter-jazz.com (for generic inquiries)
 * sales@jupiter-jazz.com (to sponsor our lifestyle)
@@ -42,7 +41,7 @@ Thre are three ways to conatct us:
 License & Copyright
 -------------------
 
-AtomKratf is (c)2009-2012 Jupiter Jazz Limited. All Rights Reserved.
+AtomKraft is (c)2009-2012 Jupiter Jazz Limited. All Rights Reserved.
 
 AtomKraft is releases under the [AtomKraft EULA](https://atomkraft.hk/eula).
 Contents in this repository are shared under the [CC-BY-3.0](http://creativecommons.org/licenses/by/3.0/).
@@ -50,7 +49,6 @@ Contents in this repository are shared under the [CC-BY-3.0](http://creativecomm
 More?
 -----
 
-Get more information at: https://atomkraft.hk
+Get more information on our product website: https://atomkraft.hk
 
-> "may your pixels be always free of aliasing"
-  _the AtomKraft Team_
+> "may your pixels be always free of aliasing" -- _the AtomKraft Team_
