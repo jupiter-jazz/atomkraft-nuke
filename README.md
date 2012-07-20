@@ -1,10 +1,7 @@
- ______     ______   ______     __    __     __  __     ______     ______     ______   ______  
-/\  __ \   /\__  _\ /\  __ \   /\ "-./  \   /\ \/ /    /\  == \   /\  __ \   /\  ___\ /\__  _\ 
-\ \  __ \  \/_/\ \/ \ \ \/\ \  \ \ \-./\ \  \ \  _"-.  \ \  __<   \ \  __ \  \ \  __\ \/_/\ \/ 
- \ \_\ \_\    \ \_\  \ \_____\  \ \_\ \ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\      \ \_\ 
-  \/_/\/_/     \/_/   \/_____/   \/_/  \/_/   \/_/\/_/   \/_/ /_/   \/_/\/_/   \/_/       \/_/ 
+AtomKraft/NUKE
+==============
 
-*AtomKraft* is the interactive 3D toolkit for look development, matte painting, lighting & rendering fully integrated for The Foundry's Nuke/NukeX.
+**AtomKraft** is the interactive 3D toolkit for look development, matte painting, lighting & rendering fully integrated for The Foundry's Nuke/NukeX.
 
 It is developed by the VFX and rendering nutjobs of Jupiter Jazz Limited and it is targeted too production usage.
 
@@ -37,6 +34,12 @@ There are three ways to contact us:
 * info@jupiter-jazz.com (for generic inquiries)
 * sales@jupiter-jazz.com (to sponsor our lifestyle)
 * support@jupiter-jazz.com (for customers only)
+
+Scocial
+-------
+
+Twitter: [@hackedonjupiter](http://twitter.com/hackedonjupiter/)
+Google+: [+jupiterjazz](https://plus.google.com/b/101201230622891762144/101201230622891762144/posts)
 
 License & Copyright
 -------------------
