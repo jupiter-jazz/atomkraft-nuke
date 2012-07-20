@@ -1,9 +1,9 @@
 AtomKraft/NUKE
 ==============
 
-**AtomKraft** is the interactive 3D toolkit for look development, matte painting, lighting & rendering fully integrated for The Foundry's Nuke/NukeX.
+[AtomKraft/NUKE](https://atomkraft.hk/nuke) is the interactive 3D toolkit for look development, matte painting, lighting & rendering fully integrated for [The Foundry's Nuke/NukeX](http://thefoundry.co.uk/products/nuke).
 
-It is developed by the VFX and rendering nutjobs of Jupiter Jazz Limited and it is targeted too production usage.
+It is developed by the VFX & rendering nutjobs of Jupiter Jazz Limited and it is targeted too production usage.
 
 What can you find here?
 -----------------------
@@ -11,44 +11,48 @@ What can you find here?
 This repository is for AtomKraft/NUKE related resources, mostly here you will find:
 
 - example .nk files for Nuke/NukeX
-- .sl shading code snippets to load in AtomShader
+- AtomKraft .h header files
+- .sl (RSL) shading code snippets to load in AtomShader & use as references
+- sample .sdl (RSL, compiled) shaders to load in AtomShader
 - sample 3D models
 - sample textures
-- more things I can't think of it right now..
+- more things I can't think of it right now...
 
 Download AtomKraft
 ------------------
 
-There are two versions of AtomKraft:
+There are two flavours of AtomKraft:
 
-- AtomKraft "free" -- the free-as-in-beer version, limited to max 1 per customer/site & locked down to 2 rendering threads
-- AtomKraft "full" -- the commercial version, powered by unlimited rendering threads
+- AtomKraft *free* -- the free-as-in-beer version, limited to max 1 per customer/site & locked down to 2 rendering threads. With embedded license.
+- AtomKraft *full* -- the full featured commercial version, powered by unlimited rendering threads. Requires a license, otherwise renders with a watermark.
 
-You can download them on the AtomKraft product website: https://atomkraft.hk/nuke
+You can freely download them on the AtomKraft product website: https://atomkraft.hk/nuke
 
 
 Report a bug/issue
 ------------------
 
-If you are a customer and you want your issues to be not visible to other users we have a private issue tracker at:
+If you are a customer wanting to report a bug/issue in private mode, so that it is NOT visible to the others, we have a private issue tracker at:
 
   https://atomkraft.hk/issues
 
-If you do not mind your issues to be public feel free to log them here on this very GitHub project!
+If you do not mind your issues to be public, then free to log them right here on GitHub:
+
+  [Project Issues](https://github.com/jupiter-jazz/atomkraft-nuke/issues).
 
 Ping Jupiter
 ------------
 
-There are three ways to contact us:
+There are three conventional ways to contact us:
 
 * info@jupiter-jazz.com (for generic inquiries)
 * sales@jupiter-jazz.com (to sponsor our lifestyle)
-* support@jupiter-jazz.com (for customers only)
+* support@jupiter-jazz.com (customers only)
 
 Social
 ------
 
-If you are feeling social these are for you: 
+If you are feeling particularly social these are for you: 
 
 * Twitter: [@hackedonjupiter](http://twitter.com/hackedonjupiter/)
 * Google+: [+jupiterjazz](https://plus.google.com/b/101201230622891762144/101201230622891762144/posts)
