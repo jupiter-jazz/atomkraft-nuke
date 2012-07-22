@@ -1,9 +1,10 @@
 AtomKraft/NUKE
 ==============
 
-[AtomKraft/NUKE](https://atomkraft.hk/nuke) is the interactive 3D toolkit for look development, matte painting, lighting & rendering fully integrated for [The Foundry's Nuke/NukeX](http://thefoundry.co.uk/products/nuke).
+[AtomKraft/NUKE](https://atomkraft.hk/nuke) is the interactive 3D toolkit for look development, matte painting,
+lighting & rendering tightly integrated in [The Foundry's Nuke/NukeX](http://thefoundry.co.uk/products/nuke).
 
-It is developed by the VFX & rendering nutjobs of Jupiter Jazz Limited and it is targeted too production usage.
+It is developed by the VFX & rendering nutjobs of Jupiter Jazz Limited and it is targeted to VFX production usage.
 
 What can you find here?
 -----------------------
