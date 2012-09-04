@@ -1,7 +1,7 @@
-AtomKraft/NUKE
+AtomKraft/Nuke
 ==============
 
-[AtomKraft/NUKE](https://atomkraft.hk/nuke) is the interactive 3D toolkit for look development, matte painting,
+[AtomKraft/Nuke](https://atomkraft.hk/nuke) is the interactive 3D toolkit for look development, matte painting,
 lighting & rendering tightly integrated in [The Foundry's Nuke/NukeX](http://thefoundry.co.uk/products/nuke).
 
 It is developed by the VFX & rendering nutjobs of Jupiter Jazz Limited and it is targeted to VFX production usage.
@@ -9,10 +9,10 @@ It is developed by the VFX & rendering nutjobs of Jupiter Jazz Limited and it is
 What can you find here?
 -----------------------
 
-This repository is for AtomKraft/NUKE related resources, mostly here you will find:
+This repository is for AtomKraft/Nuke related resources, mostly here you will find:
 
 - example .nk files for Nuke/NukeX
-- AtomKraft .h header files
+- AtomKraft SDK (.h header files and so on -- when available)
 - .sl (RSL) shading code snippets to load in AtomShader & use as references
 - sample .sdl (RSL, compiled) shaders to load in AtomShader
 - sample 3D models
@@ -22,12 +22,12 @@ This repository is for AtomKraft/NUKE related resources, mostly here you will fi
 Download AtomKraft
 ------------------
 
-There are two flavours of AtomKraft:
+There are two flavours of AtomKraft/Nuke:
 
-- AtomKraft *free* -- the free-as-in-beer version, limited to max 1 per customer/site & locked down to 2 rendering threads. With embedded license.
-- AtomKraft *full* -- the full featured commercial version, powered by unlimited rendering threads. Requires a license, otherwise renders with a watermark.
+- AtomKraft/Nuke *Free* -- the free-as-in-beer version, limited to max 1 per customer/site & locked down to 2 rendering threads. No need for a license (it is embedded).
+- AtomKraft/Nuke *Full* -- the full featured commercial version, powered by unlimited rendering threads. Requires a license, otherwise renders with a watermark.
 
-You can freely download them on the AtomKraft product website: https://atomkraft.hk/nuke
+You can freely download them on the AtomKraft/Nuke product website: https://atomkraft.hk/nuke
 
 
 Report a bug/issue
@@ -39,7 +39,7 @@ If you are a customer wanting to report a bug/issue in private mode, so that it 
 
 If you do not mind your issues to be public, then free to log them right here on GitHub:
 
-  [Project Issues](https://github.com/jupiter-jazz/atomkraft-nuke/issues).
+  [AtomKraft/Nuke Project Issues on GitHub](https://github.com/jupiter-jazz/atomkraft-nuke/issues).
 
 Ping Jupiter
 ------------
